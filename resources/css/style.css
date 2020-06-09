@@ -35,3 +35,19 @@ h2 {
     font-size: 1.3125rem;
     margin: 20px;
 }
+
+.coming-soon img {
+    margin-bottom: 15px;
+}
+
+.coming-soon .download-link {
+    margin-top: 15px;
+}
+}
+
+/*Footer*/
+
+.footer-text {
+    color: gray;
+    text-align: right
+}
