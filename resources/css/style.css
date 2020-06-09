@@ -47,7 +47,7 @@ h2 {
 
 /*Footer*/
 
-.footer-text {
+footer .footer-text {
     color: gray;
-    text-align: right
+    text-align: right;
 }
